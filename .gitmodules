@@ -5,14 +5,14 @@
 	path = components/arduino
 	url = https://github.com/espressif/arduino-esp32
 [submodule "components/arduino-audio-tools"]
-	path = components/arduino-audio-tools
+	path = components/arduino-audio-tools/arduino-audio-tools
 	url = https://github.com/pschatzmann/arduino-audio-tools
 [submodule "components/arduino-libhelix"]
-	path = components/arduino-libhelix
+	path = components/arduino-libhelix/arduino-libhelix
 	url = https://github.com/pschatzmann/arduino-libhelix
 [submodule "components/ArduinoJson"]
 	path = components/ArduinoJson
 	url = https://github.com/bblanchon/ArduinoJson.git
-[submodule "components/sh1106"]
-	path = components/sh1106
+[submodule "components/sh1106/sh1106"]
+	path = components/sh1106/sh1106
 	url = https://github.com/mvcl/esp32-oled-sh1106
