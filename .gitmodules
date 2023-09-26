@@ -1,0 +1,18 @@
+[submodule "components/Adafruit_GFX"]
+	path = components/Adafruit_GFX
+	url = https://github.com/martinberlin/Adafruit-GFX-Library-ESP-IDF
+[submodule "components/arduino"]
+	path = components/arduino
+	url = https://github.com/espressif/arduino-esp32
+[submodule "components/arduino-audio-tools"]
+	path = components/arduino-audio-tools
+	url = https://github.com/pschatzmann/arduino-audio-tools
+[submodule "components/arduino-libhelix"]
+	path = components/arduino-libhelix
+	url = https://github.com/pschatzmann/arduino-libhelix
+[submodule "components/ArduinoJson"]
+	path = components/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
+[submodule "components/sh1106"]
+	path = components/sh1106
+	url = https://github.com/mvcl/esp32-oled-sh1106
